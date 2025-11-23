@@ -28,7 +28,7 @@ A real-time **Helmet Detection System** built using **YOLOv8**, designed to auto
 
 ## 🚀 Installation
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/your-username/Helmet-Detection-YOLOv8.git
 cd Helmet-Detection-YOLOv8
